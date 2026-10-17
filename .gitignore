@@ -1,0 +1,53 @@
+# Compiled output
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.out
+*.elf
+*.bin
+*.map
+*.lst
+*.asm.lst
+
+# Build folders
+build/
+Build/
+bin/
+obj/
+Debug/
+Release/
+out/
+x64/
+x86/
+
+# IDE and editor files
+.project
+.cproject
+.settings/
+.metadata/
+.vs/
+.vscode/
+.idea/
+*.sln.docstates
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.pdb
+*.ilk
+*.idb
+*.tmp
+*.swp
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
